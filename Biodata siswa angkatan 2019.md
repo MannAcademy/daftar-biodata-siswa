@@ -25,8 +25,16 @@
    Agama  : Islam
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
+
+   
+5. Nama   : Budiono Boat
+   NIM    : H2020000006
+   JK     : Laki - Laki
+   Agama  : Islam
+   TTL    : Mars, 10 Maret 2003
+   Alamat : Jln. Tanjung Pinang RT.14 No.33
  
-5. Nama   : Rifqi Permana
+6. Nama   : Rifqi Permana
    NIM    : H2020000005
    JK     : Laki - Laki
    Agama  : Islam
